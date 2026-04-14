@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Pavel Kuznetsov
 
 ## QA Engineer (Manual + Automation)
@@ -89,4 +88,3 @@
 
 Open to work  
 Готов выполнить тестовое задание и пройти собеседование
--->
