@@ -1,90 +1,120 @@
-## Hi there 👋
+## Junior QA Engineer / QA Automation Python
 
-# Pavel Kuznetsov
+Развиваюсь в направлении Fullstack QA: ручное тестирование, API testing, UI automation, SQL и базовое понимание CI/CD.
 
-## QA Engineer (Manual + Automation)
+Имею практический опыт в учебных и pet-проектах:
 
-Начинающий QA Engineer с практическим опытом тестирования web, mobile и API.  
-Рассматриваю тестирование как инженерную задачу: анализ требований, поиск дефектов и повышение качества продукта.  
+- тестирование web-приложений
+- тестирование REST API
+- написание автотестов на Python
+- работа с Pytest, Selenium, Requests, Postman и Allure
+- оформление чек-листов, тест-кейсов и баг-репортов
+- анализ сетевых запросов через Chrome DevTools Network
+- базовая работа с SQL
 
-Развиваюсь в автоматизации тестирования на Python, применяю Selenium и Pytest в проектах.  
-Интересуюсь качеством ПО, тест-дизайном и построением надёжных автотестов.
+Готов выполнить тестовое задание и пройти техническое интервью.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Testing:**
-- Manual testing (functional, regression)
-- Test design (equivalence classes, boundary values)
-- Test cases, checklists, bug reports
+### Manual QA
 
-**Automation:**
-- Python
-- Selenium
-- Pytest
-- Page Object Model (POM)
-- Allure
+- Functional testing
+- Regression testing
+- Smoke testing
+- Test design
+- Test cases
+- Checklists
+- Bug reports
 
-**API & Data:**
+### API Testing
+
 - REST API
 - Postman
-- SQL
-
-**Tools:**
-- Git
-- DevTools
-
-**Technologies:**
-- HTTP / HTTPS
+- HTTP/HTTPS
 - JSON
+- Status codes
+- Headers
+- Request/response body
+- Positive and negative scenarios
+
+### Automation
+
+- Python
+- Pytest
+- Requests
+- Selenium WebDriver
+- Page Object Model
+- Allure
+
+### Tools
+
+- Git
+- GitHub
+- GitHub Actions
+- Chrome DevTools
+- VS Code
+
+### SQL
+
+- SELECT
+- WHERE
+- JOIN
+- ORDER BY
+- GROUP BY
 
 ---
 
-## 📂 Projects
+## Projects
 
-- **UI autotests (Selenium + Pytest)**  
-  Автоматизация пользовательских сценариев (логин, регистрация, действия пользователя)
+### Stellar Burgers API Tests
 
-- **API autotests (Postman + Python)**  
-  Тестирование REST API, проверка бизнес-логики
+API-автотесты для проверки регистрации, авторизации, изменения данных пользователя и создания заказов.
 
-- **Web testing (Яндекс Маршруты)**  
-  Тест-кейсы, чек-листы, баг-репорты
-
-- **Mobile testing (Android)**  
-  Функциональное и регрессионное тестирование
-
-👉 Все проекты доступны в репозиториях профиля
+**Stack:** Python, Pytest, Requests, Allure, REST API, JSON  
+**Repository:** https://github.com/PavelKuznetsov11/stellar-burgers-api-tests
 
 ---
 
-## 📚 Learning & Development
+### Stellar Burgers UI Tests
 
-Изучаю:
-- Selenium, Pytest (углубление автоматизации)
-- REST API и клиент-серверное взаимодействие
-- Основы CI/CD
+UI-автотесты для проверки авторизации, личного кабинета и оформления заказа.
 
-Читаю:
-- «Тестирование дот ком» — Роман Савин  
-- How Google Tests Software — James Whittaker  
-
-Слежу за:
-- Podlodka QA  
-- TestGuild Automation Podcast  
-- QA статьи на Хабр  
+**Stack:** Python, Selenium, Pytest, Page Object Model, Allure  
+**Repository:** https://github.com/PavelKuznetsov11/stellar-burgers-ui-tests
 
 ---
 
-## 📫 Contacts
+### Scooter API Tests
 
-- Telegram: https://t.me/PK3010  
-- Email: pavkuznecov1@gmail.com  
+API-автотесты для проверки создания заказов и работы backend-сервиса.
+
+**Stack:** Python, Pytest, Requests, REST API, JSON  
+**Repository:** https://github.com/PavelKuznetsov11/scooter-api-tests
 
 ---
 
-## 🚀 Status
+### Scooter UI POM Tests
 
-Open to work  
-Готов выполнить тестовое задание и пройти собеседование
+UI-автотесты для проверки пользовательских сценариев с использованием Page Object Model.
+
+**Stack:** Python, Selenium, Pytest, Page Object Model, Allure  
+**Repository:** https://github.com/PavelKuznetsov11/scooter-ui-pom-tests
+
+---
+
+### Books Collector Unit Tests
+
+Unit-тесты бизнес-логики приложения.
+
+**Stack:** Python, Pytest, Unit testing  
+**Repository:** https://github.com/PavelKuznetsov11/books-collector-unit-tests
+
+---
+
+## Contacts
+
+**Telegram:** https://t.me/PK3010  
+**Email:** pavkuznecov1@gmail.com  
+**GitHub:** https://github.com/PavelKuznetsov11
