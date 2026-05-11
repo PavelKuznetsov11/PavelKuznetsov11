@@ -1,3 +1,5 @@
+# Pavel Kuznetsov
+
 ## Junior QA Engineer / QA Automation Python
 
 Развиваюсь в направлении Fullstack QA: ручное тестирование, API testing, UI automation, SQL и базовое понимание CI/CD.
@@ -10,7 +12,6 @@
 - работа с Pytest, Selenium, Requests, Postman и Allure
 - оформление чек-листов, тест-кейсов и баг-репортов
 - анализ сетевых запросов через Chrome DevTools Network
-- базовая работа с SQL
 
 Готов выполнить тестовое задание и пройти техническое интервью.
 
